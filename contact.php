@@ -13,7 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     // Email details
-    $to = "your-email@example.com"; // Replace with your email address
+    $to = "oceandon02@gmail.com";
     $headers = "From: " . $email . "\r\n" .
                "Reply-To: " . $email . "\r\n" .
                "X-Mailer: PHP/" . phpversion();
